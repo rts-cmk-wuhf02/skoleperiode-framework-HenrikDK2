@@ -1,3 +1,6 @@
+## Jeg endte med at lave en offentlig repo på min github for det her: https://github.com/HenrikDK2/completeReactV5
+
+
 # skoleperiode-framework
 
 I den kommende skoleperiode skal vi se nærmere på et JavaScript frontend **framework**. Vi har besluttet at **ReactJS** er det framework I i den kommende skoleperiode skal introduceres til. Vi har valgt ReactJS fordi det er det absolut mest brugte framework blandt branchens bureauer. 
